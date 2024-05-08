@@ -11,3 +11,4 @@ PyPDF2
 docx2txt
 rouge
 altair
+validators
